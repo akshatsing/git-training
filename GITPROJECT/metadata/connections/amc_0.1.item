@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_nBRk8Af-Eeil9LxlBW9NJw" name="amc" id="_ScEbgAf-Eeil9LxlBW9NJw" label="amc" dataPackage="_zQ7g0AsAEeienPeL_Y9pLw" ContextMode="true" ContextId="_mq8voAf-Eeil9LxlBW9NJw" contextName="Default" DatabaseType="MySQL" DriverClass="org.gjt.mm.mysql.Driver" URL="jdbc:mysql://localhost:3306/amc?noDatetimeStringSync=true" dbVersionString="MYSQL_5" Port="context.amc_Port" Username="context.amc_Login" Password="context.amc_Password" ServerName="context.amc_Server" DatasourceName="" FileFieldName="" SID="context.amc_Database" SqlSynthax="SQL Syntax" StringQuote="amnc&quot;" DbmsId="mysql_id" ProductId="MYSQL" AdditionalParams="context.amc_AdditionalParams" StandardSQL="true" SQLMode="false" UiSchema="">
+    <taggedValue xmi:id="_nBSMAAf-Eeil9LxlBW9NJw" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_nDGw8Af-Eeil9LxlBW9NJw" tag="package filter" value=""/>
+    <taggedValue xmi:id="_nDP64Af-Eeil9LxlBW9NJw" tag="Status" value=""/>
+    <taggedValue xmi:id="_nDP64Qf-Eeil9LxlBW9NJw" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_nDP64gf-Eeil9LxlBW9NJw" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_nDP64wf-Eeil9LxlBW9NJw" tag="Description" value=""/>
+    <taggedValue xmi:id="_nDP65Af-Eeil9LxlBW9NJw" tag="Author" value=""/>
+    <taggedValue xmi:id="_nDP65Qf-Eeil9LxlBW9NJw" tag="otherParameter"/>
+    <taggedValue xmi:id="_nDP65gf-Eeil9LxlBW9NJw" tag="DB ProductName" value="MySQL"/>
+    <taggedValue xmi:id="_nDP65wf-Eeil9LxlBW9NJw" tag="DB ProductVersion" value="5.7.21-log"/>
+    <taggedValue xmi:id="_nDP66Af-Eeil9LxlBW9NJw" tag="DB IdentifierQuoteString" value="`"/>
+    <parameters xmi:id="_nBSMAQf-Eeil9LxlBW9NJw" key="CONN_PARA_KEY_USERNAME" value="context.amc_Login"/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_zQ7g0AsAEeienPeL_Y9pLw" name="amc" dataManager="_nBRk8Af-Eeil9LxlBW9NJw"/>
+</xmi:XMI>
